@@ -13,4 +13,4 @@ TODO:
 
 # Installation
 1. Clone repo `git clone https://github.com/JakobSachs/rustChess/ && cd rustChess`
-2. Run with "cargo run"
+2. Run with `cargo run`
